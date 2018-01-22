@@ -11,6 +11,8 @@ namespace githubtest
         static void Main(string[] args)
         {
             //Im branching with Github
+            // Commit all message
+            // pull requests
         }
     }
 }
